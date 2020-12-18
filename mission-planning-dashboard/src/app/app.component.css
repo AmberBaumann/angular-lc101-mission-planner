@@ -1,0 +1,10 @@
+.box {
+  display: flex;
+  padding: 10px;
+  border: dashed;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: gold;
+}
+
+
